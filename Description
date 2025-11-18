@@ -1,0 +1,38 @@
+# IMC503 – Data Science Toolkit  
+## Lab Assessment (18/11/2025)  
+### COVID-19 Data Visualisation & Insights  
+**Author:** Rakshita Rama Kubal  
+**Course:** IMC503 – Data Science Toolkit  
+
+---
+
+## 📌 Project Overview
+This repository contains the complete solution for **Q1 of the IMC503 Lab Assessment**, which required:
+
+- Loading the provided CSV dataset in R  
+- Cleaning and preprocessing the data  
+- Computing additional metrics:
+  - **Case Fatality Rate (CFR)**  
+  - **Recovery Rate**
+- Creating multiple visualisations  
+- Exporting all plots into a **single PDF file**  
+- Providing insights based on visual interpretation  
+
+All analysis was performed using **R**, with both **base R graphics** and **ggplot2**.
+
+
+## 📊 Visualisations Generated
+
+The script produces the following plots:
+
+1. **Top 10 Countries by Confirmed Cases (Bar Chart)**  
+2. **Overall Case Distribution (Pie Chart)**  
+3. **Confirmed vs Deaths (Scatter Plot, log–log when needed)**  
+4. **CFR Distribution (Histogram)**  
+5. **Recovery Rate vs CFR (Scatter Plot)**  
+6. **Outcome Composition for Top Countries (Stacked Bar Chart)**  
+
+These plots are automatically combined into:
+
+📄 **`visualizations_report_R.pdf`**
+
